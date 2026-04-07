@@ -1,6 +1,8 @@
 🚀 Automated Executive Sales Dashboard (n8n + JavaScript)
 📌 Overview
 
+Dashboard : file:///C:/Users/imd90/Downloads/advanced_sales_dashboard%20(5).html
+
 This project demonstrates an end-to-end workflow automation system that transforms raw sales data into an executive-level dashboard using n8n and JavaScript.
 
 The workflow automates the complete pipeline:
